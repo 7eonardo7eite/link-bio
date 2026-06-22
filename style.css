@@ -48,6 +48,7 @@ body {
 
 .profile-info__description {
     font-size: 0.9rem;
+    font-style: italic;
     margin-bottom: 1rem;
 }
 
