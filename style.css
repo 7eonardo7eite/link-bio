@@ -21,6 +21,7 @@ body {
     background-color: #A4B465;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     padding: 1rem 2.3rem 1rem 2.3rem;
+    margin-bottom: 2rem;
 }
 
 .profile-photo {
@@ -64,7 +65,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    padding: 1rem 2.5rem;
+    padding-inline: 2.5rem;
 }
 
 .services__title, .payment__title {
@@ -154,7 +155,7 @@ body {
 .divider {
     width: 80%;
     height: 1px;
-    margin: 1rem auto 2rem auto;
+    margin: 2rem auto 2rem auto;
     background-color: #a4b4654d;
 }
 
